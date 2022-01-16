@@ -1,5 +1,5 @@
 # Compose-and-Program-Music-in-Python-using-Earsketch
- new way of learn coding with composing music .
+ new way to learn coding with composing music .
 
 creating a basic composition using the Python programming language in Earsketch. 
 You will learn basic Python functions in order to create a basic music composition.
